@@ -1,0 +1,20 @@
+name = Addari
+description = Addari is Drupal theme designed and developed by worthapost.com.
+core = 6.x
+engine = phptemplate
+
+regions[header] = Header
+regions[content_top] = Content Top
+regions[content_bottom] = Content Bottom
+regions[big_right] = Big Right
+regions[right] = Right
+regions[left] = left
+regions[footer] = footer
+
+
+; Information added by drupal.org packaging script on 2010-02-19
+version = "6.x-2.1"
+core = "6.x"
+project = "addari"
+datestamp = "1266551703"
+
